@@ -1,0 +1,12 @@
+PS1=$
+UNAME=hit
+UID=1000
+GID=1000
+HOME=/home/hitesh
+SHELL=/bin/bash
+HOSTNAME=Hit-Esh
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+HISTSIZE=1000
+
+
+alias=ls -l
